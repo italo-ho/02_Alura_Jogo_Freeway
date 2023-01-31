@@ -7,6 +7,10 @@
 ![Badge](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&logoWidth=30&style=flat-square)
 ![Badge](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&logoWidth=30&style=flat-square)
 
-Meu primeiro projeto criando através dos cursos oferecidos pelo portal Alura.
+Mais um projeto desenvolvido através da Alura. Aqui foi recriada uma versão simplificada do jogo Freeway, desenvolvido para o console Atari em 1981. Nele o usuário deve guiar um personagem de uma calçada a outra de uma avenida desviando dos veículos que passam pela via.
+
+Projeto desenvolvido em HTML, CSS e JavaScript.
 
 # Demonstração do Projeto
+
+![2023-01-30-22-55-15](https://user-images.githubusercontent.com/108245748/215639829-73d4d69e-9717-4442-91b7-a178b519eaf8.gif)
